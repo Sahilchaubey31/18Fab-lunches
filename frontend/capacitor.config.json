@@ -1,0 +1,14 @@
+{
+  "appId": "com.shopease.app",
+  "appName": "ShopEase",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.ecommerce.app-merged_res-46:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.ecommerce.app-main-48:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ecommerce.app-merged_res-46:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.ecommerce.app-main-48:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ecommerce.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.ecommerce.app-main-48:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ecommerce.app-merged_res-46:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.ecommerce.app-main-48:/mipmap-xhdpi/ic_launcher.xml"
+    }
+]
