@@ -3,6 +3,6 @@
     "builder": "nixpacks"
   },
   "deploy": {
-    "startCommand": "cd backend/ECommerceAPI && dotnet ECommerceAPI.dll"
+    "startCommand": "dotnet out/ECommerceAPI.dll"
   }
 }
